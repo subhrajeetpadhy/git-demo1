@@ -11,7 +11,8 @@ public class App {
 	}
 
 	public void addedMethod(){
-		System.out.println("welcome");
+		System.out.println("India is great-subh");
+		System.out.println("welcome "+ "subh");		
 	}
 	
 	public static void main(String[] args) {
