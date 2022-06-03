@@ -11,8 +11,8 @@ public class App {
 	}
 
 	public void addedMethod(){
-		System.out.println("welcome"+" Home");
-		System.out.println("rama 2+3 : "+ 6);
+		System.out.println("welcome"+" New Home");
+		System.out.println("rama 2+3 : "+ 7);
 		
 	}
 	
