@@ -11,7 +11,9 @@ public class App {
 	}
 
 	public void addedMethod(){
-		System.out.println("welcome");
+		System.out.println("welcome"+" Home");
+		System.out.println("rama 2+3 : "+ 5);
+		
 	}
 	
 	public static void main(String[] args) {
