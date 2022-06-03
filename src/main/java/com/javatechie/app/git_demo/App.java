@@ -12,6 +12,7 @@ public class App {
 
 	public void addedMethod(){
 		System.out.println("India is great-subh");
+		System.out.println("India is great-subh1");
 		System.out.println("welcome "+ "subh");
 		System.out.println("welcome"+" New Home");
 		System.out.println("rama 2+3 : "+ 8);
